@@ -1,25 +1,26 @@
 body{
-    margin: 0;
     text-align: center;
     background-color: #00FFD1;
-
 }
 main{
     background-color: #06266F;
-    margin: 0;
 }
 main p{
     color: white;
-    text-align: left;
+    margin: 0% 10% 0% 10%;
 }
 img{
     margin-right: 1%;
 }
 a{
     text-decoration: none;
-    margin: 15px;
     color: black;
     border: 1px solid darkblue;
-    border-radius: 10px;
-    padding: 5px;
+    border-radius: 10%;
+    padding: 1%;
+}
+nav{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
 }
